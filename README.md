@@ -15,7 +15,7 @@ aos
 ```
 4. Load the blueprint
 ```sh
-load .daoao.lua
+.load daoao.lua
 ```
 5. Start to use it.
 
